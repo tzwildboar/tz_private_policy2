@@ -3,6 +3,6 @@
 本スキルにおいては、ユーザーがスキル利用にあたり発話する体重、身長並びに結果情報は保存されません。
 そのため開発者である私は、それら情報を知ることは出きず、他目的に利用したり、情報を第三者へ提供(譲渡または販売)することも不可能です。
 
-本件に関するお問い合わせは、[こちら](https://docs.google.com/forms/d/1zHFehA6KyPP4OZGZ2u-0yIsAoiB9uJvGnq8Ge0QvP8Y/) よりお願いします。
+本件に関するお問い合わせは、[こちら](https://docs.google.com/forms/d/1I8x9BXXNMKbGPmIaDRjsAkXg3ewc7zILNlu_rWZdAYY/) よりお願いします。
 
 2020/02/07　TZWILDBOAR
